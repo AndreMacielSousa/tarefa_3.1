@@ -20,7 +20,7 @@ Note que este estudo e reflexão foram importantes para os conceitos a aplicar n
 
 3. Desenhar Mockup (aqui necessária alguma atenção na investigação, pois o processo é desenhar antes do passo seguinte, dado que fora do Google Académico, vais encontrar quem utilize este processo para apresentar com base no prototipo, o que na minha opinião não é o pretendido (https://mockupbro.com/mockups/devices)
 
-4. Implementar em HTML5 um protótipo dos desenhos anteriores.
+4. Implementar em HTML5 um protótipo dos desenhos anteriores, mantendo como base o CSS original da aplicação em estudo.
 
 ## Protótipos (HTML5)
 
